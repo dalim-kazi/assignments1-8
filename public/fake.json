@@ -1,0 +1,83 @@
+[
+    {
+      "id": "642edb48af71ef2efbe71eef",
+      "details": "dolor sit amet consectetur adipisicing elit. Illum odio accusamus beatae alias dicta! Nobis deleniti consectetur",
+      "picture": "img-1.jpg",
+      "age": 32,
+      "time":30,
+      "name": "Weber Lawrence",
+      "quantity": 0
+    },
+    {
+      "id": "642edb48129952449d22b5b5",
+      "details": "dolor sit amet consectetur adipisicing elit. Illum odio accusamus beatae alias dicta! Nobis deleniti",
+      "picture": "img-2.webp",
+      "age": 37,
+      "time":25,
+      "name": "Velasquez Dudley",
+      "quantity": 0
+    },
+    {
+      "id": "642edb488b80bf92d27ade95",
+      "details": "dolor sit amet consectetur adipisicing elit. Illum odio accusamus beatae alias dicta!",
+      "picture": "img-3.webp",
+      "age": 33,
+      "time":20,
+      "name": "Tyson Vinson",
+      "quantity": 0
+    },
+    {
+      "id": "642edb48554980be6e5446aa",
+      "details": "inventore recusandae saepe quibusdam corporis nulla necessitatibus id soluta dolorum",
+      "picture": "img-4.webp",
+      "age": 25,
+      "time":23,
+      "name": "Conrad Bradshaw",
+      "quantity": 0
+    },
+    {
+      "id": "642edb489659f8f9a798da1c",
+      "details": "  Illum odio accusamus beatae alias dicta! Nobis deleniti consectetur inventore recusandae",
+      "picture": "img-5.jpg",
+      "age": 33,
+      "time":10,
+      "name": "Kristine Scott",
+      "quantity": 0
+    },
+    {
+      "id": "642edb48d3bf4129261378f7",
+      "details": "dolor sit amet consectetur adipisicing elit. corporis nulla necessitatibus id soluta dolorum",
+      "picture": "img-6.jpg",
+      "age": 23,
+      "time":40,
+      "name": "Evelyn Boyle",
+      "quantity": 0
+    },
+    {
+      "id": "642edb48b6b8265eab193e1b",
+      "details": "dolor sit recusandae saepe quibusdam corporis nulla necessitatibus id soluta dolorum",
+      "picture": "img-7.jfif",
+      "age": 30,
+      "time":45,
+      "name": "Marla Robbins",
+      "quantity": 0
+    },
+    {
+        "id": "642ee2468ce109f531b79fbc",
+        "details": "dolor sit amet consectetur adipisicing elit. Illum odio accusamus beatae alias dicta! Nobis deleniti dolorum",
+        "picture": "img-8.jpg",
+        "age": 37,
+        "time":35,
+        "name": "Alma Forbes",
+        "quantity": 0
+      },
+      {
+        "id": "642ee24605c393c2d0ef143d",
+        "details": "dolor sit amet inventore recusandae saepe quibusdam corporis nulla necessitatibus id soluta dolorum",
+        "picture": "img-10.jpg",
+        "age": 20,
+        "time":50,
+        "name": "Moon Foreman",
+        "quantity": 0
+      }
+  ]

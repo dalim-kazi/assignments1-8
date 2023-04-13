@@ -1,0 +1,16 @@
+.button-container{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 20px;
+}
+.button1{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: 0;
+}
+.button1:hover{
+    background-color: blueviolet;
+    color: white;
+}
